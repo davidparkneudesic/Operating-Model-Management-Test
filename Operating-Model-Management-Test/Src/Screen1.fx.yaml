@@ -3,7 +3,7 @@ Screen1 As screen:
     "'Operating Models' As gallery.'BrowseLayout_Vertical_OneTextVariant_ver5.0'":
         DelayItemLoading: =true
         Height: =696
-        Items: ='Operating Models_1'
+        Items: =Filter('Operating Models_1', 'Operating Models_1 (Views)'.'Active Operating Models')
         Layout: =Layout.Vertical
         LoadingSpinner: =LoadingSpinner.Data
         TemplatePadding: =0
@@ -61,13 +61,13 @@ Screen1 As screen:
     "Gallery4 As gallery.'BrowseLayout_Vertical_OneTextVariant_ver5.0'":
         DelayItemLoading: =true
         Height: =696
-        Items: =Capabilities
+        Items: =Filter(Capabilities, 'Capabilities (Views)'.'Active Capabilities')
         Layout: =Layout.Vertical
         LoadingSpinner: =LoadingSpinner.Data
         TemplatePadding: =0
         TemplateSize: =80
         Width: =347
-        X: =314
+        X: =330
         Y: =36
         ZIndex: =1
 
