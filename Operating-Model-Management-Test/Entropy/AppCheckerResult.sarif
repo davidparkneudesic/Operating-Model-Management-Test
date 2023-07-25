@@ -357,17 +357,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "App.Capabilities_1"
+                  "fullyQualifiedName": "App.Operating Models_1"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "App.Capabilities_1",
+                  "fullyQualifiedName": "App.Operating Models_1",
                   "relativeAddress": 0
                 }
               },
               "properties": {
-                "member": "Capabilities_1",
+                "member": "Operating Models_1",
                 "module": "App",
                 "type": "App"
               }
@@ -387,17 +387,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "App.Operating Models_1"
+                  "fullyQualifiedName": "App.Capabilities_1"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "App.Operating Models_1",
+                  "fullyQualifiedName": "App.Capabilities_1",
                   "relativeAddress": 0
                 }
               },
               "properties": {
-                "member": "Operating Models_1",
+                "member": "Capabilities_1",
                 "module": "App",
                 "type": "App"
               }

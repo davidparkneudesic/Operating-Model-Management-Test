@@ -6,7 +6,6 @@
     "IsSampleData": false,
     "IsWritable": true,
     "LogicalName": "neu_capability",
-    "MaxGetRowsCount": 500,
     "Name": "Capabilities_1",
     "NativeCDSDataSourceInfoNameMapping": {
       "_ownerid_value": "Owner",
