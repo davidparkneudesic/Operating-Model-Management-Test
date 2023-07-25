@@ -61,8 +61,7 @@ Screen1 As screen:
     "Capabilities As gallery.'BrowseLayout_Vertical_TwoTextVariant_ver5.0'":
         DelayItemLoading: =true
         Height: =702
-        Items: |
-            =Filter('Operating Models_1','Operating Model Name' = "Sales")
+        Items: =Capabilities_1
         Layout: =Layout.Vertical
         LoadingSpinner: =LoadingSpinner.Data
         TemplatePadding: =0
