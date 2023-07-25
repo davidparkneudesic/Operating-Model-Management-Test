@@ -3,18 +3,18 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "galleryTemplate2": 39,
+    "galleryTemplate2": 10,
     "Host": 3,
-    "NextArrow6": 47,
-    "Operating Models": 38,
-    "Rectangle6": 49,
+    "NextArrow6": 8,
+    "Operating Models": 5,
+    "Rectangle6": 6,
     "Screen1": 4,
-    "Separator6": 48,
-    "Title6": 46
+    "Separator6": 7,
+    "Title6": 9
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/25/2023 17:23:13",
+  "HeaderLastSavedDateTimeUTC": "07/25/2023 17:28:11",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -23,28 +23,7 @@
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {
-    "Capabilities": 18,
-    "Capabilities\\default.cds_neu_capability_views": 12,
-    "Capabilities\\neu_capability_statecode": 3,
-    "Capabilities\\neu_capability_statuscode": 4,
-    "Capabilities\\neu_scopereview": 2,
-    "Client Solutions": 21,
-    "Client Solutions\\default.cds_neu_clientsolution_views": 15,
-    "Client Solutions\\neu_clientsolution_statecode": 9,
-    "Client Solutions\\neu_clientsolution_statuscode": 10,
-    "CustomGallerySample": 16,
-    "Operating Models_1": 17,
-    "Operating Models_1\\default.cds_neu_operatingmodel_views": 11,
-    "Operating Models_1\\neu_operatingmodel_statecode": 0,
-    "Operating Models_1\\neu_operatingmodel_statuscode": 1,
-    "Process Groups": 19,
-    "Process Groups\\default.cds_neu_processgroup_views": 13,
-    "Process Groups\\neu_processgroup_statecode": 5,
-    "Process Groups\\neu_processgroup_statuscode": 6,
-    "Processes": 20,
-    "Processes\\default.cds_neu_process_views": 14,
-    "Processes\\neu_process_statecode": 7,
-    "Processes\\neu_process_statuscode": 8
+    "CustomGallerySample": 0
   },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
@@ -85,16 +64,16 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1335425,
+    "AnalysisLoadTime": 0.0853092,
     "ControlCount": {
-      "gallery": 2,
-      "galleryTemplate": 2,
-      "icon": 2,
-      "label": 2,
-      "rectangle": 4,
+      "gallery": 1,
+      "galleryTemplate": 1,
+      "icon": 1,
+      "label": 1,
+      "rectangle": 2,
       "screen": 1
     },
-    "DeserializationLoadTime": 0.9709855
+    "DeserializationLoadTime": 1.2052258
   },
   "WasLocalDatabaseReferencesEmpty": true
 }

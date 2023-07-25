@@ -10,7 +10,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 4
+                "index": 6
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -22,7 +22,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 4
+                "index": 6
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -34,7 +34,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 4
+                "index": 6
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -46,7 +46,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 4
+                "index": 6
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -58,7 +58,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 4
+                "index": 6
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -70,7 +70,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 4
+                "index": 6
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -82,7 +82,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 4
+                "index": 6
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -94,7 +94,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 4
+                "index": 6
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -106,7 +106,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 4
+                "index": 6
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -119,6 +119,317 @@
         }
       ],
       "results": [
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Screen1.'Operating Models'.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Screen1.'Operating Models'.Items",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 20,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "'Operating Models_1'"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "Screen1",
+                "type": "Screen1.'Operating Models'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Operating Models_1"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Screen1.'Operating Models'.Rectangle6.Visible"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Screen1.'Operating Models'.Rectangle6.Visible",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "ThisItem"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Visible",
+                "module": "Screen1",
+                "type": "Screen1.'Operating Models'.Rectangle6"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "ThisItem"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Screen1.'Operating Models'.Rectangle6.Visible"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Screen1.'Operating Models'.Rectangle6.Visible",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".IsSelected"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Visible",
+                "module": "Screen1",
+                "type": "Screen1.'Operating Models'.Rectangle6"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Screen1.'Operating Models'.Title6.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Screen1.'Operating Models'.Title6.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "ThisItem"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "Screen1",
+                "type": "Screen1.'Operating Models'.Title6"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "ThisItem"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Screen1.'Operating Models'.Title6.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Screen1.'Operating Models'.Title6.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 23,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".'Operating Model Name'"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "Screen1",
+                "type": "Screen1.'Operating Models'.Title6"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Screen1.'Operating Models'.Title6.FontWeight"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Screen1.'Operating Models'.Title6.FontWeight",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 3,
+                  "snippet": {
+                    "text": "ThisItem"
+                  }
+                }
+              },
+              "properties": {
+                "member": "FontWeight",
+                "module": "Screen1",
+                "type": "Screen1.'Operating Models'.Title6"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "ThisItem"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Screen1.'Operating Models'.Title6.FontWeight"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Screen1.'Operating Models'.Title6.FontWeight",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 11,
+                  "snippet": {
+                    "text": ".IsSelected"
+                  }
+                }
+              },
+              "properties": {
+                "member": "FontWeight",
+                "module": "Screen1",
+                "type": "Screen1.'Operating Models'.Title6"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Screen1.'Operating Models'.Title6.FontWeight"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Screen1.'Operating Models'.Title6.FontWeight",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 63,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "If(ThisItem.IsSelected, FontWeight.Semibold, FontWeight.Normal)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "FontWeight",
+                "module": "Screen1",
+                "type": "Screen1.'Operating Models'.Title6"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "If"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 2
+        },
         {
           "locations": [
             {
@@ -146,37 +457,7 @@
             "level": "Low"
           },
           "ruleId": "acc-ReadableScreenNameNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Screen1.'Operating Models'.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Screen1.'Operating Models'.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "Screen1",
-                "type": "Screen1.'Operating Models'"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -206,26 +487,26 @@
             "level": "Medium"
           },
           "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 2
+          "ruleIndex": 4
         },
         {
           "locations": [
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "App.Operating Models_1"
+                  "fullyQualifiedName": "Screen1.'Operating Models'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "App.Operating Models_1",
+                  "fullyQualifiedName": "Screen1.'Operating Models'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
-                "member": "Operating Models_1",
-                "module": "App",
-                "type": "App"
+                "member": "TabIndex",
+                "module": "Screen1",
+                "type": "Screen1.'Operating Models'"
               }
             }
           ],
@@ -235,128 +516,8 @@
           "properties": {
             "level": "Medium"
           },
-          "ruleId": "app-NotOfflineEnabledTable",
-          "ruleIndex": 3
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "App.Capabilities"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "App.Capabilities",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "Capabilities",
-                "module": "App",
-                "type": "App"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "app-NotOfflineEnabledTable",
-          "ruleIndex": 3
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "App.Process Groups"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "App.Process Groups",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "Process Groups",
-                "module": "App",
-                "type": "App"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "app-NotOfflineEnabledTable",
-          "ruleIndex": 3
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "App.Processes"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "App.Processes",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "Processes",
-                "module": "App",
-                "type": "App"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "app-NotOfflineEnabledTable",
-          "ruleIndex": 3
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "App.Client Solutions"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "App.Client Solutions",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "Client Solutions",
-                "module": "App",
-                "type": "App"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "app-NotOfflineEnabledTable",
-          "ruleIndex": 3
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 5
         }
       ],
       "tool": {
@@ -364,6 +525,51 @@
           "fullName": "PowerApps app checker",
           "name": "PowerApps app checker",
           "rules": [
+            {
+              "id": "app-ErrInvalidName",
+              "messageStrings": {
+                "issue": {
+                  "text": "Name isn't valid. '{0}' isn't recognized."
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "howToFix": [
+                  "Remove or correct the reference to the name that isn't valid."
+                ],
+                "level": "High",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
+            {
+              "id": "app-ErrInvalidDot",
+              "messageStrings": {
+                "issue": {
+                  "text": "Invalid use of '.'"
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "level": "High",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
+            {
+              "id": "app-ErrInvalidArgs-Func",
+              "messageStrings": {
+                "issue": {
+                  "text": "The function '{0}' has some invalid arguments."
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "level": "High",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
             {
               "id": "acc-ReadableScreenNameNeeded",
               "messageStrings": {
@@ -379,23 +585,6 @@
                 "level": "Low",
                 "primaryCategory": "accessibility",
                 "whyFix": "People who are blind, have low vision, or a reading disability rely on screen titles to navigate using the screen reader. "
-              }
-            },
-            {
-              "id": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-              "messageStrings": {
-                "issue": {
-                  "text": "Missing tab stop"
-                }
-              },
-              "properties": {
-                "componentType": "app",
-                "howToFix": [
-                  "Set TabIndex to 0 or greater to ensure that interactive elements have a tab stop."
-                ],
-                "level": "Medium",
-                "primaryCategory": "accessibility",
-                "whyFix": "People who use the keyboard with your app will not be able to access this element without a tab stop."
               }
             },
             {
@@ -416,20 +605,20 @@
               }
             },
             {
-              "id": "app-NotOfflineEnabledTable",
+              "id": "acc-TabIndexShouldBeDefinedForInteractiveControl",
               "messageStrings": {
                 "issue": {
-                  "text": "Table is not configured for mobile offline support."
+                  "text": "Missing tab stop"
                 }
               },
               "properties": {
                 "componentType": "app",
                 "howToFix": [
-                  "In the 'Advanced options' section for your table's Properties, set 'Enable for offline' to be on."
+                  "Set TabIndex to 0 or greater to ensure that interactive elements have a tab stop."
                 ],
                 "level": "Medium",
-                "primaryCategory": "offline",
-                "whyFix": null
+                "primaryCategory": "accessibility",
+                "whyFix": "People who use the keyboard with your app will not be able to access this element without a tab stop."
               }
             },
             {
