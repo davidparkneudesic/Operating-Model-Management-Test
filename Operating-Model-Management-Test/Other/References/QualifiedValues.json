@@ -1,17 +1,17 @@
 {
   "QualifiedValues": [
     {
-      "Kind": "default.cds_neu_capability_forms",
-      "Namespace": "Capabilities_1 (Forms)",
-      "Values": {
-        "Information": "9e2a436f-b586-4fbc-ab48-f6c1af46c8b3"
-      }
-    },
-    {
       "Kind": "default.cds_neu_operatingmodel_forms",
       "Namespace": "Operating Models_1 (Forms)",
       "Values": {
         "Information": "8e20f39b-6ad7-41b7-8a04-796c020ba912"
+      }
+    },
+    {
+      "Kind": "default.cds_neu_capability_forms",
+      "Namespace": "Capabilities_1 (Forms)",
+      "Values": {
+        "Information": "9e2a436f-b586-4fbc-ab48-f6c1af46c8b3"
       }
     },
     {

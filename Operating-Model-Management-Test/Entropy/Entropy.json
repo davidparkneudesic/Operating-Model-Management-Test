@@ -21,7 +21,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/25/2023 20:07:40",
+  "HeaderLastSavedDateTimeUTC": "07/25/2023 20:08:22",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -33,13 +33,13 @@
     "Capabilities_1": 9,
     "Capabilities_1\\default.cds_neu_capability_views": 6,
     "Capabilities_1\\neu_capability_statecode": 3,
-    "Capabilities_1\\neu_capability_statuscode": 2,
-    "Capabilities_1\\neu_scopereview": 4,
+    "Capabilities_1\\neu_capability_statuscode": 4,
+    "Capabilities_1\\neu_scopereview": 2,
     "CustomGallerySample": 7,
     "Operating Models_1": 8,
     "Operating Models_1\\default.cds_neu_operatingmodel_views": 5,
-    "Operating Models_1\\neu_operatingmodel_statecode": 1,
-    "Operating Models_1\\neu_operatingmodel_statuscode": 0
+    "Operating Models_1\\neu_operatingmodel_statecode": 0,
+    "Operating Models_1\\neu_operatingmodel_statuscode": 1
   },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
@@ -94,7 +94,7 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1154743,
+    "AnalysisLoadTime": 0.1203653,
     "ControlCount": {
       "gallery": 2,
       "galleryTemplate": 2,
@@ -103,7 +103,7 @@
       "rectangle": 4,
       "screen": 1
     },
-    "DeserializationLoadTime": 0.8773394
+    "DeserializationLoadTime": 1.4419783
   },
   "WasLocalDatabaseReferencesEmpty": false
 }
