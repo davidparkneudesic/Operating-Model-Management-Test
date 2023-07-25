@@ -3,7 +3,7 @@ Screen1 As screen:
     "'Operating Models' As gallery.'BrowseLayout_Vertical_OneTextVariant_ver5.0'":
         DelayItemLoading: =true
         Height: =696
-        Items: =Filter('Operating Models_1', 'Operating Models_1 (Views)'.'Active Operating Models')
+        Items: ='Operating Models_1'
         Layout: =Layout.Vertical
         LoadingSpinner: =LoadingSpinner.Data
         TemplatePadding: =0
