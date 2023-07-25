@@ -97,7 +97,7 @@
       "zeroalltabindexes": false
     },
     "Author": "",
-    "BindingErrorCount": 8,
+    "BindingErrorCount": 0,
     "ContainsThirdPartyPcfControls": false,
     "DefaultConnectedDataSourceMaxGetRowsCount": 500,
     "DocumentAppType": "DesktopOrTablet",
@@ -112,7 +112,6 @@
     "FileID": "7c8c14c5-fb67-4112-bfd2-5338495ca7f6",
     "Id": "aa8627eb-50b7-4607-993c-68d61af0aabf",
     "InstrumentationKey": "",
-    "LocalDatabaseReferences": "{}",
     "ManualOfflineProfileId": "",
     "Name": "Operating+Model+Management+-+David+copy.msapp",
     "OriginatingVersion": "1.333",

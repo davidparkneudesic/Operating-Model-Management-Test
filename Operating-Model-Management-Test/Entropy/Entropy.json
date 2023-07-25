@@ -14,7 +14,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/25/2023 17:28:14",
+  "HeaderLastSavedDateTimeUTC": "07/25/2023 17:28:30",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -23,7 +23,11 @@
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {
-    "CustomGallerySample": 0
+    "CustomGallerySample": 3,
+    "Operating Models_1": 4,
+    "Operating Models_1\\default.cds_neu_operatingmodel_views": 2,
+    "Operating Models_1\\neu_operatingmodel_statecode": 1,
+    "Operating Models_1\\neu_operatingmodel_statuscode": 0
   },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
@@ -75,5 +79,5 @@
     },
     "DeserializationLoadTime": 1.2052258
   },
-  "WasLocalDatabaseReferencesEmpty": true
+  "WasLocalDatabaseReferencesEmpty": false
 }
