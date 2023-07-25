@@ -1,6 +1,13 @@
 {
   "QualifiedValues": [
     {
+      "Kind": "default.cds_neu_capability_forms",
+      "Namespace": "Capabilities_1 (Forms)",
+      "Values": {
+        "Information": "9e2a436f-b586-4fbc-ab48-f6c1af46c8b3"
+      }
+    },
+    {
       "Kind": "default.cds_neu_operatingmodel_forms",
       "Namespace": "Operating Models_1 (Forms)",
       "Values": {
@@ -33,13 +40,6 @@
       "Namespace": "Client Solutions (Forms)",
       "Values": {
         "Information": "091a7327-06b6-4ad2-8b44-717c9628a0a7"
-      }
-    },
-    {
-      "Kind": "default.cds_neu_capability_forms",
-      "Namespace": "Capabilities_1 (Forms)",
-      "Values": {
-        "Information": "9e2a436f-b586-4fbc-ab48-f6c1af46c8b3"
       }
     }
   ]
