@@ -7,20 +7,21 @@
     "galleryTemplate2": 10,
     "galleryTemplate3": 12,
     "Host": 3,
-    "NextArrow3": 15,
+    "NextArrow5": 45,
     "NextArrow6": 8,
     "Operating Models": 5,
-    "Rectangle3": 13,
+    "Rectangle5": 47,
     "Rectangle6": 6,
     "Screen1": 4,
-    "Separator3": 14,
+    "Separator5": 46,
     "Separator6": 7,
-    "Title3": 16,
-    "Title6": 9
+    "Subtitle4": 44,
+    "Title6": 9,
+    "Title7": 43
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/25/2023 17:34:13",
+  "HeaderLastSavedDateTimeUTC": "07/25/2023 19:27:59",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -55,16 +56,17 @@
     "galleryTemplate2": {},
     "galleryTemplate3": {},
     "Host": {},
-    "NextArrow3": {},
+    "NextArrow5": {},
     "NextArrow6": {},
     "Operating Models": {},
-    "Rectangle3": {},
+    "Rectangle5": {},
     "Rectangle6": {},
     "Screen1": {},
-    "Separator3": {},
+    "Separator5": {},
     "Separator6": {},
-    "Title3": {},
-    "Title6": {}
+    "Subtitle4": {},
+    "Title6": {},
+    "Title7": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
@@ -74,16 +76,17 @@
     "galleryTemplate2": 1,
     "galleryTemplate3": 0,
     "Host": 0,
-    "NextArrow3": 0,
+    "NextArrow5": 0,
     "NextArrow6": 0,
     "Operating Models": 0,
-    "Rectangle3": 0,
+    "Rectangle5": 0,
     "Rectangle6": 0,
     "Screen1": 0,
-    "Separator3": 0,
+    "Separator5": 0,
     "Separator6": 0,
-    "Title3": 0,
-    "Title6": 0
+    "Subtitle4": 0,
+    "Title6": 0,
+    "Title7": 0
   },
   "ResourcesJsonIndices": {
     "Image-SampleImage": 0
@@ -91,7 +94,7 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1203645,
+    "AnalysisLoadTime": 0.1153351,
     "ControlCount": {
       "gallery": 2,
       "galleryTemplate": 2,
@@ -100,7 +103,7 @@
       "rectangle": 4,
       "screen": 1
     },
-    "DeserializationLoadTime": 1.1401648
+    "DeserializationLoadTime": 0.9084145
   },
   "WasLocalDatabaseReferencesEmpty": false
 }
